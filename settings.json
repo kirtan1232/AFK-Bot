@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KantipurRP",
+    "username": "KastamandapRP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "kantipur.mcsh.io",
-    "port": 2022,
+    "ip": "Kastamandap.aternos.me",
+    "port": 16603,
     "version": "",
     "try-creative": false
   },
